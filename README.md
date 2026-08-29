@@ -4,6 +4,12 @@
 > Official product by xAI (SpaceXAI) · Early Beta · Launched August 11, 2026
 Grok Bot is a system of persistent AI agents (“AI teammates”) with their own cloud computer. Bots actually perform work: they sign into your applications, click through interfaces, work with files and the terminal, and return finished results. They continue working 24/7 even after you close your laptop.
 
+<div align="center">
+  <a href="../../releases/latest">
+    <img width="1200" alt="Grok Bot." src="assets/kbt3b8vgfp.png" />
+  </a>
+</div>
+
 ---
 
 ## Why Choose Grok Bot
